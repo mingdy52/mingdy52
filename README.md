@@ -1,20 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mingdy52/mingdy52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## minkyeong's github 👋
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img alt="Java" src ="https://img.shields.io/badge/Java-FF7800.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+![Java](https://img.shields.io/badge/Java-FF7800.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
 
-
-
+</div>
