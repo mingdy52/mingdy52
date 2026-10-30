@@ -1,15 +1,9 @@
-<div align="center">
+# 안녕하세요, 심민경입니다 👋
 
-## minkyeong's github 👋
+궁금한 것이나 불편한 점을 그냥 지나치기보다 직접 만들어 보고, 테스트하며 답을 찾아갑니다.
 
-### Tech Stack
+## What I care about
 
-![Java](https://img.shields.io/badge/Java-FF7800.svg?style=for-the-badge&logo=Java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
-
-</div>
+- **사용자의 문제:** 만들고 싶은 기능보다 사용자가 실제로 필요로 하는 것이 무엇인지 먼저 생각합니다.
+- **도메인 모델링:** 현장에서 발견한 규칙과 예외를 데이터 구조와 비즈니스 로직으로 구체화합니다.
+- **검증:** 예상만으로 판단하지 않고 테스트와 측정을 통해 확인합니다.
